@@ -1,0 +1,11 @@
+1.What parser does?
+Does Parser recognize & and pointer and new?
+2.
+What rules and actions to be added for class reslationships?
+
+3.How to create triangle and rhombus with relative coordinates in WPF?
+4.
+What all scopes we need to analyze?
+    
+	- We need to parse inside a function if a pointer is 	created
+Check if parser goes through each function.
